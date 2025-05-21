@@ -12,7 +12,7 @@ This repository uses a Python script to read the UPS input voltage on the R1000.
 ## Quikly begin
 
 ```
-git clone https://github.com/Seeed-Projects/Read-UPS-input-voltage
+git clone https://github.com/Seeed-Projects/Read-UPS-input-voltage.git
 cd Read-UPS-input-voltage
 sudo apt update
 sudo apt install python3-smbus i2c-tools
